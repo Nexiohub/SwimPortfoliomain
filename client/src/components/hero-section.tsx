@@ -1,7 +1,6 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
-const afreenMedalPhoto = "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&q=80";
+import afreenMedalPhoto from "@assets/IMG_1309_1768587124213.jpg";
 
 export default function HeroSection() {
   const scrollToSection = (sectionId: string) => {

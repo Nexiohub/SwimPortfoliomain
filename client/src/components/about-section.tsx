@@ -1,6 +1,5 @@
 import { ArrowRight } from "lucide-react";
-
-const afreenVictoryPhoto = "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&q=80";
+import afreenVictoryPhoto from "@assets/IMG_1308_1768587124213.jpg";
 
 export default function AboutSection() {
   const scrollToAchievements = () => {

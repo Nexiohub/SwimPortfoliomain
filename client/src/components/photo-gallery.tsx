@@ -1,7 +1,7 @@
-const afreenPhoto = "https://images.unsplash.com/photo-1560090995-01632a28895b?w=800&q=80";
-const afreenMedalPhoto = "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&q=80";
-const afreenSwimmingPhoto = "https://images.unsplash.com/photo-1560090995-01632a28895b?w=800&q=80";
-const afreenVictoryPhoto = "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&q=80";
+import afreenPhoto from "@assets/FB_Profile_1768587195592.jpg";
+import afreenMedalPhoto from "@assets/IMG_1309_1768587124213.jpg";
+import afreenSwimmingPhoto from "@assets/IMG_1300_1768587124187.jpg";
+import afreenVictoryPhoto from "@assets/IMG_1308_1768587124213.jpg";
 
 export default function PhotoGallery() {
   const galleryImages = [
